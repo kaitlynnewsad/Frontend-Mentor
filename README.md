@@ -3,6 +3,22 @@
 A website where future and current web developers can solve real-world HTML, CSS and JavaScript challenges whilst working to professional designs.
 You choose a challenge based on your skill level and code the challenge. I will post each challenge I do with the finish code.
 
+## Intro Section with Dropdown Navigation
+A website that is an this section with dropdown navigation. A page that uses 
+- HTML 
+- CSS Flexbox 
+- CSS Grid 
+- JavaScript
+
+### Picture:
+<img width="1416" alt="Screen Shot 2022-08-09 at 9 37 31 AM" src="https://user-images.githubusercontent.com/56359938/183664380-20fd6469-6bb0-48bf-9a93-c4f6a853fc62.png">
+
+
+### Live Website: 
+https://dancing-semolina-e71835.netlify.app/
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------
+
 ## Base Apparel Coming Soon Page:
 A page that uses HTML, CSS, and Javscript that is a coming soon page for apparel company. The page is built with 
 - CSS custom properties
